@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 <div align="center">
-   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordisev&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordisev&show_icons=true&theme=dark&locale=en&layout=compact" alt="yordisev" />
 </div>
 <ul>
     <li>🔭 I’m currently working on Flutter Projects</li>
