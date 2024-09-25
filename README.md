@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <h3>My GitHub Stats</h3>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordisev&show_icons=true&theme=dark&locale=en&layout=compact" alt="yordisev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordisev&show_icons=true&theme=radical&locale=en&layout=compact" alt="yordisev" /></p>
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yordisev&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br>
