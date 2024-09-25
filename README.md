@@ -46,6 +46,7 @@ Here are some ideas to get you started:
     <li>💬 Ask me about Flutter, Javascript, vue, python, nodejs</li>
 </ul>
 <br>
+<hr>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
@@ -53,9 +54,6 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
-<hr>
 
-<h3>My GitHub Stats</h3>
-<br>
 </body>
 </html>
