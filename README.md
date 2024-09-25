@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
     </a>
 </div>
-<br><br><br><br>
+<br>
 <div align="center">
    
    ![yordisev's GitHub stats](https://github-readme-stats.vercel.app/api?username=yordisev&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
