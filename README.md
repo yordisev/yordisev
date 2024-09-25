@@ -45,12 +45,9 @@ Here are some ideas to get you started:
 <h3>My GitHub Stats</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yordisev&show_icons=true&theme=dark&locale=en&layout=compact" alt="yordisev" /></p>
-<br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yordisev&show_icons=true&theme=dark&locale=en" alt="yordisev" /></p>
-<br><br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yordisev&theme=dark" alt="yordisev" /></p>
-<br><br><br><br><br><br><br><br>
-<hr width="60%" >
+<hr width="100%" >
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yordisev&label=Profile%20views&color=0e75b6&style=flat" alt="yordisev" /> </p>
 </body>
