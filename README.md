@@ -45,9 +45,10 @@ Here are some ideas to get you started:
     <li>🎥 I’m make videos about tools and programming <a href="https://www.youtube.com/@olacoders">Youtube</a></li>
     <li>💬 Ask me about Flutter, Javascript, vue, python, nodejs</li>
 </ul>
-<br>
 <hr>
 <div>
+    
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
